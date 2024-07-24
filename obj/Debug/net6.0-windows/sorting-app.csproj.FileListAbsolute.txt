@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\bin\Debug\net6.0-windows\sorting-app.exe
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\bin\Debug\net6.0-windows\sorting-app.deps.json
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\bin\Debug\net6.0-windows\sorting-app.runtimeconfig.json
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\bin\Debug\net6.0-windows\sorting-app.dll
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\bin\Debug\net6.0-windows\sorting-app.pdb
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting_app.Form1.resources
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.dll
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\refint\sorting-app.dll
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.pdb
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\sorting-app.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algortime Projekti\sorting-app\obj\Debug\net6.0-windows\ref\sorting-app.dll
